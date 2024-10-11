@@ -43,8 +43,8 @@ public class MVCPatternDemo {
 
       for (int i = 0; i < 50; i++) {
          Student student = new Student();
-         student.setName("Name XXX" + i);
-         student.setRollNo("RollNo YYY" + i);
+         student.setName("Name1" + i);
+         student.setRollNo("RollNo2" + i);
 
          students.add(student);
       }
